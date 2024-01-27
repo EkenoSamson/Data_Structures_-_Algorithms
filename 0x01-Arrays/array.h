@@ -6,5 +6,6 @@
 #include <stdlib.h>
 
 int findelement(int arr[], int elem, int n);
+void insertend(int arr[], int n, int elem);
 
 #endif
