@@ -5,5 +5,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int findelement(int arr[], int elem, int n);
 
 #endif
