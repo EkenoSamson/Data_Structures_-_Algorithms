@@ -5,6 +5,7 @@
 #include <stdlib.h>
 
 int modify(int par);
+int _strlen(char *s);
 
 
 #endif
