@@ -9,6 +9,7 @@
 int main(void)
 {
 	char a[6];
+	char b[6] = "School";
 
 	*a = 'S';
 	*(a + 1) = 'c';
@@ -18,6 +19,7 @@ int main(void)
 	a[5] = 'l';
 
 	printf("%s\n", a);
+	printf("%s\n", b);
 
 	return (0);
 }
