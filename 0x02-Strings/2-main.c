@@ -2,7 +2,8 @@
 
 /**
  * main - addresses of variables
- *
+ * This example will not compile with regular flags 
+ * -Wall -Wextra -Werror -pedantic -std=gnu89
  * Return: 0
  */
 

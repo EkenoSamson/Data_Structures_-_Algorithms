@@ -10,11 +10,13 @@
 int main(void)
 {
 	int n;
+	int *p;
 
 	printf("Size of char on my computer: %lu\n", sizeof(char));
 	printf("Size of int on my computer: %lu\n", sizeof(int));
 	printf("Size of float on my computer: %lu\n", sizeof(float));
-	printf("Size of my int variable on my computer: %lu", sizeof(n));
+	printf("Size of my int variable on my computer: %lu\n", sizeof(n));
+	printf("Size of pointer on my computer: %lu\n", sizeof(p));
 
 	return (0);
 }	
