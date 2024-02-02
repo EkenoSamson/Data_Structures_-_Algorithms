@@ -6,6 +6,6 @@
 
 int modify(int par);
 int _strlen(char *s);
-
+char *reverse(char *str);
 
 #endif
